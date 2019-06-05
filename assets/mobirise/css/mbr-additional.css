@@ -1404,6 +1404,102 @@ body {
 .cid-revKmDT4DK .card {
   padding-bottom: 1.5rem;
 }
+.cid-rswyo4PdBS {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rswyo4PdBS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rswzBtBuNZ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rswzBtBuNZ .mbr-text,
+.cid-rswzBtBuNZ blockquote {
+  color: #767676;
+}
+.cid-rswzU9cncu {
+  padding-top: 15px;
+  padding-bottom: 75px;
+  background-color: #f9f9f9;
+}
+.cid-rswzU9cncu .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rswzU9cncu .container-table {
+  margin: 0 auto;
+}
+.cid-rswzU9cncu .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rswzU9cncu .dataTables_wrapper {
+  display: block;
+}
+.cid-rswzU9cncu .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rswzU9cncu .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rswzU9cncu table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-rswzU9cncu table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rswzU9cncu table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-rswzU9cncu table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-rswzU9cncu .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rswzU9cncu .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rswzU9cncu .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rswzU9cncu .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rswzU9cncu .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rswzU9cncu .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rswzU9cncu .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rswzU9cncu .head-item {
+  text-align: left;
+}
 .cid-revMW80815 .navbar {
   padding: .5rem 0;
   background: #333333;
